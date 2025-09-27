@@ -6,7 +6,7 @@ This stopwatch can track **hours, minutes, seconds, and milliseconds** with intu
 
 ## 🎥 Video
 
-**🎥 Stopwatch Screenrecordeing**:(https://github.com/AnchalMaurya/Prodigy_Task2_Stopwatch_web/blob/main/Screen%20Recording%202025-09-27%20105412.mp4)  
+**🎥 Stopwatch ScreenRecording**: (https://github.com/AnchalMaurya/Prodigy_Task2_Stopwatch_web/blob/main/Screen%20Recording%202025-09-27%20105412.mp4)  
 
 
 ## ✨ Features
